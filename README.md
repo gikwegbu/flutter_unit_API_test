@@ -1,6 +1,6 @@
 # flutter_assignment
 
-A new Flutter project.
+This is a simple API unit test application, no fancy UI was implemented.
 
 ## Getting Started
 
