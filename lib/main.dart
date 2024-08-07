@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'package:flutter_assignment/core/dependencies.dart';
-import 'package:flutter_assignment/viewModel/home_viewModel.dart';
+import 'package:flutter_assignment/viewModel/homeViewModel.dart';
 import 'package:flutter_assignment/views/home_view.dart';
 
 void main() {

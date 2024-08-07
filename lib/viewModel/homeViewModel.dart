@@ -1,5 +1,5 @@
+// ignore: file_names
 import 'package:flutter/material.dart';
-import 'package:flutter_assignment/core/api_response.dart';
 import 'package:flutter_assignment/data_sources/remote_data_source.dart';
 import 'package:flutter_assignment/model/home_model.dart';
 

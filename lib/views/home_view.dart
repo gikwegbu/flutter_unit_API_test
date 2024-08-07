@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_assignment/viewModel/home_viewModel.dart';
+import 'package:flutter_assignment/viewModel/homeViewModel.dart';
 import 'package:provider/provider.dart';
 
 class HomeView extends StatefulWidget {

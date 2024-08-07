@@ -36,7 +36,6 @@ class RemoteDataSourceImpl extends RemoteDataSource {
         isError: true,
       );
     } catch (err) {
-      print("This is the Error");
       return ApiResponse(
         status: "failure",
         statusCode: 400,

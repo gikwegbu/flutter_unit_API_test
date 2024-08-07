@@ -1,6 +1,6 @@
 
 import 'package:flutter_assignment/data_sources/remote_data_source.dart';
-import 'package:flutter_assignment/viewModel/home_viewModel.dart';
+import 'package:flutter_assignment/viewModel/homeViewModel.dart';
 import 'package:get_it/get_it.dart';
 import 'package:http/http.dart' as http;
 

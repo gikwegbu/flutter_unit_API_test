@@ -2,7 +2,7 @@ import 'package:flutter_assignment/core/api_response.dart';
 import 'package:flutter_assignment/core/dependencies.dart';
 import 'package:flutter_assignment/data_sources/remote_data_source.dart';
 import 'package:flutter_assignment/model/home_model.dart';
-import 'package:flutter_assignment/viewModel/home_viewModel.dart';
+import 'package:flutter_assignment/viewModel/homeViewModel.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
